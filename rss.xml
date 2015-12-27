@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Warrensburg Bike Rally]]></title>
         <description><![CDATA[Warrensburg Bike Rally]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/warrensburg-bike-rally/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 20:58:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 21:04:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/warrensburg-bike-rally/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Warrensburg Bike Rally]]></title>
             <description><![CDATA[<article><h1>Warrensburg Bike Rally</h1><p>Welcome to Warrensburg BikeRally.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cece70c1a70f489bd188540a51b901ccad5023dc.jpg"></article>]]></description>
-            <link>undefinedwarrensburg-bike-rally/index.html</link>
+            <link>https://thegrid.ai/warrensburg-bike-rally/warrensburg-bike-rally/index.html</link>
             <guid isPermaLink="false">a85aeb54-7794-4a8e-accc-0dcc7fc39b1d</guid>
-            <pubDate>Sun, 27 Dec 2015 20:58:11 GMT</pubDate>
+            <pubDate>Sun, 27 Dec 2015 21:04:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
