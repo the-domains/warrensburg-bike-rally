@@ -1,0 +1,28 @@
+name: Warrensburg Bike Rally
+favicon: null
+layout_spectrum: 0.5031215464696288
+typography_spectrum: 0.41835762606933713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.653845424298197
+  lightness: 0.718724672216922
+  saturation: 0.3434001284185797
+  rhythmicContrast: 0.1311979682650417
+purpose: []
